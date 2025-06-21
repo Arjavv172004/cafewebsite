@@ -30,7 +30,7 @@ const Navigation: React.FC = () => {
         <div className="flex justify-between items-center h-14 sm:h-16">
         <div className="flex items-center space-x-2">
   <img
-    src="/katslogo.jpeg"
+    src="/public/katslogo.jpeg"
     alt="Kat's Coffee Logo"
     className="h-8 w-8 sm:h-10 sm:w-10 object-contain"
   />
