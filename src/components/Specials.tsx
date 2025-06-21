@@ -54,19 +54,19 @@ const Specials: React.FC = () => {
     {
       name: "Kat's Special Lime Soda",
       description: "A refreshing, fizzy drink bursting with tangy lime and a hint of sweetness.",
-      image: "/limesoda.png",
+      image: "/public/limesoda.png",
       color: "from-emerald-400 to-teal-400"
     },
     {
       name: "Iced Coffee",
       description: "Chilled, bold coffee served over ice, perfect for a cool caffeine boost.",
-      image: "/icedcoffee.png",
+      image: "/public/icedcoffee.png",
       color: "from-yellow-400 to-orange-400"
     },
     {
       name: "Corn & Cheese Quesadilla",
       description: "A warm, crispy tortilla stuffed with melted cheese and tasty fillings.",
-      image: "/food.png",
+      image: "/public/food.png",
       color: "from-pink-400 to-rose-400"
     }
   ];
