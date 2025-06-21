@@ -34,9 +34,9 @@ const About: React.FC = () => {
 
   // Array of image paths or imports
   const featureImages = [
-    '/aboutus2.png',
-    '/aboutus1.png',
-    '/aboutus3.jpg',
+    '/public/aboutus2.png',
+    '/public/aboutus1.png',
+    '/public/aboutus3.jpg',
   ];
 
   return (
